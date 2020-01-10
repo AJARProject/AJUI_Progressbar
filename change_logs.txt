@@ -1,0 +1,10 @@
+Logs of the work done
+
+v1.0.1 - GI - 18.07.2019 :
+- Set the autoRadiusSize to True by default
+
+v1.0.2 - GC - 11.11.2019 :
+- Component and lab updated in v18
+
+v1.0.3 - GI 18.11.2019
+- Fix typo on width, change every widht to width
