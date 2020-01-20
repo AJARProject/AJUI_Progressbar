@@ -8,3 +8,6 @@ v1.0.2 - GC - 11.11.2019 :
 
 v1.0.3 - GI 18.11.2019
 - Fix typo on width, change every widht to width
+
+v1.1.0 - GC 20.01.2020
+- v18
