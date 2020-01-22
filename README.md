@@ -26,7 +26,7 @@ You can find a PDF with a complete documentation on how to use the component.
 
 ### Version
 
-1.0.3-Build16 // Mon, 18 Nov 2019 16:13:48 GMT
+1.1.0-Build19  // Mon, 20 Jan 2020 12:20:48 GMT
 
 ### Questions?
 
