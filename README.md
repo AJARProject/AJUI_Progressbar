@@ -10,7 +10,7 @@ A lab is included within the component itself.
 
 ### Documentation
 
-You can find a PDF with a complete documentation on how to use the component.
+[Wiki Progressbar](https://github.com/AJARProject/AJUI_Progressbar/wiki)
 
 **Example**
 
