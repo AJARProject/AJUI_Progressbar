@@ -28,6 +28,9 @@ A lab is included within the component itself.
 
 1.1.0-Build19  // Mon, 20 Jan 2020 12:20:48 GMT
 
+Minimal 4D Version : 
+ - 18
+
 ### Questions?
 
 If you have any question, you can ask them directly on github or write to info@ajar.ch
