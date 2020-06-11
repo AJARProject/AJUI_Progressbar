@@ -1,6 +1,6 @@
 # AJUI_Progressbar
 
-AJUI Progressbar is a component made for 4D that help you to create and display progress bar in your forms. You can fully customize your progress bar.
+AJUI Progressbar is a component made for 4D in the V18 version that help you to create and display progress bar in your forms. You can fully customize your progress bar.
 
 A progress bar is created via the language and will be displayed in a picture element in your form. The progress bar is stored in an object that is an instance of a progress bar.
 
