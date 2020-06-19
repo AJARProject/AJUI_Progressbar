@@ -26,10 +26,11 @@ A lab is included within the component itself.
 
 ### Version
 
-1.1.0-Build19  // Mon, 20 Jan 2020 12:20:48 GMT
+1.1.1-Build20  // Fri, 19 Jun 2020 14:37:42 GMT
 
 Minimal 4D Version : 
- - 18
+ - 18 (using formula member function)
+ - 18 R3 (using class)
 
 ### Questions?
 

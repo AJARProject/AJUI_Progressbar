@@ -11,3 +11,7 @@ v1.0.3 - GI 18.11.2019
 
 v1.1.0 - GC 20.01.2020
 - v18
+
+v1.1.1 - GC 19.06.2020
+- Added class ProgressBar and CircularProgressBar
+- Updated wiki
