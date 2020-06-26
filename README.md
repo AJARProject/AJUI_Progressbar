@@ -14,6 +14,7 @@ A lab is included within the component itself.
 
 **Example**
 
+```4d
     Case of
       : (Form event=On Load)
         Form.progressBar:=New AJUI_ProgressBar
@@ -23,6 +24,7 @@ A lab is included within the component itself.
         Form.progressBar.LaunchProgressBar()
 
     End case
+```
 
 ### Version
 
