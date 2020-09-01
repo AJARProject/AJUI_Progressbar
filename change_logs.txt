@@ -22,5 +22,11 @@ Logs of the work done
 2.0.1 - GI 21.08.2020
 - Set default bar offset to 1
 
-2.0.1  GI 01.09.2020
+2.0.2  GI 01.09.2020
 - Remove uneeded worker and process when no animations
+
+2.1.0  GI 01.09.2020
+- Make that no height and width (=0) to automatically use the size of the form object
+
+2.1.1 GI 01.09.2020
+- Fix the calculation for auot size to be the same than manual size
