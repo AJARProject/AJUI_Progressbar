@@ -1,17 +1,26 @@
 Logs of the work done
 
-v1.0.1 - GI - 18.07.2019 :
+1.0.1 - GI - 18.07.2019 :
 - Set the autoRadiusSize to True by default
 
-v1.0.2 - GC - 11.11.2019 :
+1.0.2 - GC - 11.11.2019 :
 - Component and lab updated in v18
 
-v1.0.3 - GI 18.11.2019
+1.0.3 - GI 18.11.2019
 - Fix typo on width, change every widht to width
 
-v1.1.0 - GC 20.01.2020
+1.1.0 - GC 20.01.2020
 - v18
 
-v1.1.1 - GC 19.06.2020
+1.1.1 - GC 19.06.2020
 - Added class ProgressBar and CircularProgressBar
 - Updated wiki
+
+2.0.0 - GI  22.08.2020
+- Rename every function of the exposed classes to be more nice and generic.
+
+2.0.1 - GI 21.08.2020
+- Set default bar offset to 1
+
+2.0.1  GI 01.09.2020
+- Remove uneeded worker and process when no animations
