@@ -9,9 +9,9 @@ This method returns an object representing an instance of the linear progress ba
   New AJUI_ProgressBar ( ) -> instance
 ```
 
-Parameter | Type |  In/Out | Description
------------- | -------- | ---------- | ---------------
-instance | object | out | instance of AJUI_ProgressBar
+| Parameter | Type | In/Out | Description |
+| --------- | ---- | ------ | ----------- |
+| instance | object | out | instance of AJUI_ProgressBar  |
 
 ## Example
 
