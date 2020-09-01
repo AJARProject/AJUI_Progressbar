@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="AJUI_ProgressBar_HDI" uuid="361B102EF05D4BE3BD38D2D2E96CA2F1" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>

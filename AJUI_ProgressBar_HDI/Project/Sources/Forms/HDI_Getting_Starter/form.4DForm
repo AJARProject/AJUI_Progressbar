@@ -1,0 +1,99 @@
+﻿{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "fixed",
+	"windowSizingY": "fixed",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"progressBar": {
+					"type": "input",
+					"top": 16,
+					"left": 19,
+					"width": 400,
+					"height": 30,
+					"dataSourceTypeHint": "picture",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "automatic",
+					"pictureFormat": "truncatedCenter",
+					"dragging": "none",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/progressBar.4dm"
+				},
+				"Button": {
+					"type": "button",
+					"text": "Exemple 1",
+					"top": 60,
+					"left": 19,
+					"width": 70,
+					"height": 16,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button.4dm"
+				},
+				"Button1": {
+					"type": "button",
+					"text": "Exemple 2",
+					"top": 60,
+					"left": 184,
+					"width": 70,
+					"height": 16,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button1.4dm"
+				},
+				"Button2": {
+					"type": "button",
+					"text": "Exemple 3",
+					"top": 60,
+					"left": 349,
+					"width": 70,
+					"height": 16,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button2.4dm"
+				}
+			}
+		}
+	],
+	"geometryStamp": 38,
+	"method": "method.4dm"
+}
